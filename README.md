@@ -10,12 +10,12 @@ Users can visit our Debater Demo by the above link. We support users in choosing
 ## Debate Topics
 The following figure shows the full list of 48 topics debate topics covering 6 categories considered in this work.
 
-<img src="./docs/debate_topics.pdf" width="800" class="center">
+<img src="./docs/debate_topics.png" width="600" class="center">
 
 ## Debate Prompt
 The following figure displays the complete prompt used for the LLM debate.
 
-<img src="./docs/debate_prompt.pdf" width="800" class="center">
+<img src="./docs/debate_prompt.png" width="600" class="center">
 
 
 ## Interface of Our Demo
