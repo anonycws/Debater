@@ -7,6 +7,17 @@ This is the Source Code of Paper: Can LLMs Be Good Debaters? An Empirical Evalua
 **Link:** \href{http://llm4life.com/debater}
 Users can visit our Debater Demo by the above link. We support users in choosing which Large Language Model to hold a positive opinion for a debate topic and which one to have the opposing opinion.
 
+## Debate Topics
+The following figure shows the full list of 48 topics debate topics covering 6 categories considered in this work.
+
+<img src="./docs/debate_topics.pdf" width="800" class="center">
+
+## Debate Prompt
+The following figure displays the complete prompt used for the LLM debate.
+
+<img src="./docs/debate_prompt.pdf" width="800" class="center">
+
+
 ## Interface of Our Demo
 
 ### Customization
